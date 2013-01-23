@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApplication", "TestApplication\TestApplication.csproj", "{7A7624A7-C79B-405B-BC8D-47CCC2327517}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelCreation", "..\..\Agnico-Eagle\ScheduleCreation\ScheduleCreation\ExcelCreation\ExcelCreation\ExcelCreation.csproj", "{72017D0F-FD65-41EB-979D-22B4891E702E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloSystem", "..\..\Agnico-Eagle\FloSystem\FloSystem.csproj", "{BD5D8B34-498E-4354-910A-46C958724E5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A7624A7-C79B-405B-BC8D-47CCC2327517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A7624A7-C79B-405B-BC8D-47CCC2327517}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A7624A7-C79B-405B-BC8D-47CCC2327517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A7624A7-C79B-405B-BC8D-47CCC2327517}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72017D0F-FD65-41EB-979D-22B4891E702E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72017D0F-FD65-41EB-979D-22B4891E702E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72017D0F-FD65-41EB-979D-22B4891E702E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72017D0F-FD65-41EB-979D-22B4891E702E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD5D8B34-498E-4354-910A-46C958724E5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD5D8B34-498E-4354-910A-46C958724E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD5D8B34-498E-4354-910A-46C958724E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD5D8B34-498E-4354-910A-46C958724E5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
